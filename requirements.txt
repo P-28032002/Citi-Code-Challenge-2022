@@ -1,0 +1,8 @@
+matplotlib~=3.6.2
+yfinance~=0.1.87
+pandas~=1.5.1
+numpy~=1.23.5
+seaborn~=0.12.1
+statsmodels~=0.13.5
+django~=4.1
+whitenoise~=5.2.0
